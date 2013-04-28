@@ -1,6 +1,9 @@
 BayText
 =======
 
+[![Build Status](https://travis-ci.org/areku/BayText.png?branch=master)](https://travis-ci.org/areku/BayText)
+
+
 ** Work in Progress ** API not fix, just a first prototype
 
 
