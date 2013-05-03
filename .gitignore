@@ -1,6 +1,8 @@
 *.py[cod]
 *~
 
+doc/build/*
+
 # C extensions
 *.so
 
